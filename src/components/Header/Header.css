@@ -1,0 +1,25 @@
+.header {
+  background-color: #f8f0e5;
+  height: 200px;
+  position: sticky;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  color: black;
+}
+
+.logo {
+  height: inherit;
+  position: relative;
+  pointer-events: none;
+}
+
+.h1 {
+  font-family: "Caveat", cursive;
+  font-size: 2000%;
+}
+
+.h3 {
+  font-family: "Caveat", cursive;
+  font-size: 80%;
+}
